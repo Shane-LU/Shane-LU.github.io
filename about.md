@@ -13,6 +13,8 @@ A software engineer seeking job in Shanghai (as of 2017-08)
 
 Stack Overflow: [Shane LU](https://stackoverflow.com/users/1415645/shane-lu)
 
+Linkedin: [Profile](https://www.linkedin.com/in/luxuan)
+
 ### Contact me
 
 [shanelu1106@gmail.com](mailto:shanelu1106@gmail.com)
