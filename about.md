@@ -7,6 +7,7 @@ published: true
 
 ### Information
 A software engineer seeking job in Shanghai (as of 2017-08)
+
 正在上海找工作的软件工程师（2017年8月）
 
 ### More Information
