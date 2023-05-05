@@ -2,8 +2,6 @@
 published: true
 ---
 
-## 波利亚(George Pólya)的一些链接
-
 忽然决定还是要写个博客。
 
 第一篇献给波利亚。
