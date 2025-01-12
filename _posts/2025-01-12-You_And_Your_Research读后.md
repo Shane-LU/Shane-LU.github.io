@@ -33,7 +33,7 @@ published: true
 5. 最后直接抄一句原文：知识和生产效率就如同复利。你知道的越多，你学到的越多；你知道的越多，你能做的越多；你能做的越多，你的机会更多。（Knowledge and productivity are like compound interest.  The more you know, the more you learn; the more you learn, the more you can do; the more you can do, the more the opportunity）
 
 
-
+### 链接
 1. [A Reflection on Richard Hamming’s ‘You and Your Research’: Striving for Greatness](https://www.lesswrong.com/posts/kLRN3uZMawshPBL9D/a-reflection-on-richard-hamming-s-you-and-your-research)
 2. [原文Richard Hamming "You and Your Research"](https://www.cs.cmu.edu/~15712/papers/hamming86.pdf) （或者随便搜一下）
 3. [B站转载](https://www.bilibili.com/video/BV1d7411o7yD/)
